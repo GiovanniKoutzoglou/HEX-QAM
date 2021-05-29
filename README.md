@@ -1,7 +1,7 @@
 # HQAM constellations
 We will briefly explain the code that generates regular and irregular HQAM and
 the corresponding received symbols in the presence of additive white gaussian noise
-(AWGN).The main technologies used for this python project were matplotlib and numpy .
+(AWGN).
 All classes are called from the main class, which takes input from the user and generates the
 appropriate constellation. Each class contains code for generating some constellations such as
 regular and irregular 4-ary HQAM,8-ary HQAM and 16-ary HQAM. In each class we calculate
