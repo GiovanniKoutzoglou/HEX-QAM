@@ -1,4 +1,4 @@
-# HQAM-
+# HQAM
 We will briefly explain the code that generates regular and irregular HQAM and
 the corresponding received symbols in the presence of additive white gaussian noise
 (AWGN).The main technologies used for this python project were matplotlib and numpy .
