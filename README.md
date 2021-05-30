@@ -14,4 +14,4 @@ or irregular (possible answers "regular","r" or "irregular","i") and finally if 
 in the presence of additive white gaussian noise (possible answers:"true","yes","y" or "false"
 ,"n","no"). After the constellation plot pops up ,user can continue seeing other constellations
 till he or she types -1 where the program stops.
-6
+
